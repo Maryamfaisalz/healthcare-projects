@@ -1,6 +1,5 @@
 # Pharmaceutical Sales Analysis
 
-CEvtv9ceX_lO5krI_r0JdRT4kVXkgZSBn7XzP384yKmv2jMHLEYjVzmtXGTyEfc24w3236x8CenjFmeQnKsGmXpo8ROnbXi1K9hKz4snOW3egPIHkqsbJCQT2FCHJfvvDWAuDdGQuRgyzM2QyiNdLUhIvXsf19WXmmN7EfTMo_Gf8h0JG2DVLD0J-f_2ZlAK
 
 ## 1. Project Overview
 
