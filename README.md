@@ -98,12 +98,12 @@ The project follows a structured analytical workflow:
 
 ## 7. Key Business Questions
 
-1. Which pharmaceutical categories contribute the most to total sales?
-2. How does pharmaceutical demand change over time?
-3. Which months demonstrate higher pharmaceutical sales?
-4. Are there identifiable seasonal patterns in medicine demand?
-5. Which pharmaceutical categories demonstrate consistent demand?
-6. How can historical sales trends support inventory planning?
+1. What are the total sales quantities for each drug category (ATC code)?
+2. Which ATC Category contributes the most to overall sales?
+3. Identify the top three ATC Categories in January 2015, July 2016, and September 2017?
+4. Which drug has sold the most often in 2017?
+5. Which drug category has the highest daily average daily sales?
+6. Are respiratory drugs (R03) sold more during specific months?
 
 ## 8. Preliminary Findings
 
@@ -137,7 +137,6 @@ The final dashboard will include:
 - Monthly and seasonal sales trends.
 - Time-based sales comparisons.
 - Interactive filters for exploring pharmaceutical categories and periods.
-
 
 ## 11. Repository Structure
 
