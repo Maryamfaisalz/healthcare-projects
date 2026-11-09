@@ -52,7 +52,7 @@ The daily dataset includes:
 - Hour
 - Weekday name
 
-**Dataset Source:** 
+**Dataset Source:** https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data
 
 ## 5. Tools & Technologies
 
@@ -154,16 +154,6 @@ pharmaceutical-sales-analysis/
 │
 └── README.md
 ```
-
-## 12. Limitations & Future Improvements
-
-- Extend the analysis with additional business-relevant datasets.
-- Investigate demand forecasting opportunities.
-- Develop a more comprehensive ETL workflow.
-- Explore SQL-based data analysis.
-- Build an interactive Power BI dashboard.
-- Improve the analysis with additional business context and validation.
-
 ---
 
 **Author:** Maryam Faisal
