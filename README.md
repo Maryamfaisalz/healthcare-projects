@@ -1,5 +1,8 @@
 # Pharmaceutical Sales Analysis
 
+![Uploading image.png…]()
+
+
 ## 1. Project Overview
 
 This project focuses on analysing historical pharmaceutical sales data to identify sales trends, understand product-category performance, and explore patterns in pharmaceutical demand over time.
