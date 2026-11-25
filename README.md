@@ -131,7 +131,7 @@ Recommendations will be refined following the completion of the analysis.
 
 The final dashboard includes:
 
-<img width="1928" height="1256" alt="image" src="https://github.com/user-attachments/assets/51172bcf-3312-4662-a8b1-89619466bb98" />
+<img width="1728" height="1060" alt="image" src="https://github.com/user-attachments/assets/674ad263-0f30-42e9-acb2-0ce5b2516e85" />
 
 **Note:** The dashboard shown above is an interactive Power BI report. For the best experience, download the Power BI file (.pbix) to explore the interactive visualizations, filters, and insights.
 
