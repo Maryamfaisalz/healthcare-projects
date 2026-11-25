@@ -131,11 +131,10 @@ Recommendations will be refined following the completion of the analysis.
 
 The final dashboard includes:
 
-- Overall pharmaceutical sales KPIs.
-- Category-wise sales performance.
-- Monthly and seasonal sales trends.
-- Time-based sales comparisons.
-- Interactive filters for exploring pharmaceutical categories and periods.
+<img width="1928" height="1256" alt="image" src="https://github.com/user-attachments/assets/51172bcf-3312-4662-a8b1-89619466bb98" />
+
+**Note:** The dashboard shown above is an interactive Power BI report. For the best experience, download the Power BI file (.pbix) to explore the interactive visualizations, filters, and insights.
+
 
 ## 11. Repository Structure
 
