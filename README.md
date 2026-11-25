@@ -1,5 +1,10 @@
 # Pharmaceutical Sales Analysis
+<img align="left" width="300" src="C:\Users\marya\Downloads\vecteezy_pharmaceutical-capsule-production-on-conveyor-belt-in-modern_74219985.jpg" alt="Pharmaceutical Sales Dashboard" />
 
+### 1. Project Overview
+This project focuses on analysing historical pharmaceutical sales data to identify sales trends, understand product-category performance, and explore patterns in pharmaceutical demand over time.
+
+<br clear="left"/>
 
 ## 1. Project Overview
 
@@ -128,9 +133,7 @@ Recommendations will be refined following the completion of the analysis.
 
 ## 10. Power BI Dashboard
 
-**Status:** Planned
-
-The final dashboard will include:
+The final dashboard includes:
 
 - Overall pharmaceutical sales KPIs.
 - Category-wise sales performance.
