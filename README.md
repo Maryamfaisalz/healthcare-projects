@@ -1,6 +1,6 @@
 # Pharmaceutical Sales Analysis
 
-![image](https://github.com/Maryamfaisalz/Coffee-Shop-Sales/assets/79410940/e6d26c51-f895-44a3-a04c-1cbe9be0f1d3)
+![image]("C:\Users\marya\Downloads\vecteezy_pharmaceutical-capsule-production-on-conveyor-belt-in-modern_74219985.jpg")
 
 ### 1. Project Overview
 This project focuses on analysing historical pharmaceutical sales data to identify sales trends, understand product-category performance, and explore patterns in pharmaceutical demand over time.
